@@ -1,4 +1,4 @@
-# MBS Home Dashboard
+# Markets Home Dashboard
 # James H Cissel V // jhcv.csv 
 
 ##### Set Up #####
@@ -29,7 +29,7 @@ require(pdftools)
 
 ##### Federal Reserve API Authentication #####
 
-fredr_set_key("d47e2b30bf4826314df23a57408a56a6")
+fredr_set_key("xxx")
 
 #####
 
